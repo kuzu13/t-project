@@ -1,0 +1,11 @@
+{
+  "ver":1.0,
+  "se":{
+    "26":{"url":"raw.githubusercontent.com/kuzu13/t-project/main/s-files/se_pon_f.wav"},
+    "28":{"url":"raw.githubusercontent.com/kuzu13/t-project/main/s-files/se_kan_f.wav"},
+    "30":{"url":"raw.githubusercontent.com/kuzu13/t-project/main/s-files/se_chii_f.wav"},
+    "32":{"url":"raw.githubusercontent.com/kuzu13/t-project/main/s-files/se_reach_f.wav"},
+    "34":{"url":"raw.githubusercontent.com/kuzu13/t-project/main/s-files/ron_f.wav"},
+    "36":{"url":"raw.githubusercontent.com/kuzu13/t-project/main/s-files/tsumo_f.wav"}
+  }
+}
