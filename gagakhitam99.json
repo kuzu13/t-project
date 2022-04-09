@@ -1,0 +1,19 @@
+{
+  "ver":1.0,
+  "se":{
+
+    "25":{"url":"raw.githubusercontent.com/kuzu13/t-project/main/gagak-hitam/発声_ポン.wav"},
+    "26":{"url":"raw.githubusercontent.com/kuzu13/t-project/main/gagak-hitam/SE_PON.wav"},
+    "27":{"url":"raw.githubusercontent.com/kuzu13/t-project/main/gagak-hitam/発声_カン.wav"},
+    "28":{"url":"raw.githubusercontent.com/kuzu13/t-project/main/gagak-hitam/SE_KAN.wav"},
+    "29":{"url":"raw.githubusercontent.com/kuzu13/t-project/main/gagak-hitam/発声_チー.wav"},
+    "30":{"url":"raw.githubusercontent.com/kuzu13/t-project/main/gagak-hitam/SE_CHII.wav"},
+    "31":{"url":"raw.githubusercontent.com/kuzu13/t-project/main/gagak-hitam/発声_リーチ.wav"},
+    "32":{"url":"raw.githubusercontent.com/kuzu13/t-project/main/gagak-hitam/SE_REACH.wav"},
+    "33":{"url":"raw.githubusercontent.com/kuzu13/t-project/main/gagak-hitam/発声_ロン.wav"},
+    "34":{"url":"raw.githubusercontent.com/kuzu13/t-project/main/gagak-hitam/RON.wav"},
+    "35":{"url":"raw.githubusercontent.com/kuzu13/t-project/main/gagak-hitam/発声_ツモ.wav"},
+    "36":{"url":"raw.githubusercontent.com/kuzu13/t-project/main/gagak-hitam/TSUMO.wav"}
+
+  }
+}
