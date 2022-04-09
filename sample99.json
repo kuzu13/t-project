@@ -1,11 +1,11 @@
 {
   "ver":1.0,
   "se":{
-    "26":{"url":"https://master/pon_f.wav"},
-    "28":{"url":"https://master/kan_f.wav"},
-    "30":{"url":"https://master/chii_f.wav"},
-    "32":{"url":"https://master/reach_f.wav"},
-    "34":{"url":"https://master/ron_f.wav"},
-    "36":{"url":"https://master/tsumo_f.wav"}
+    "26":{"url":"https://raw.githubusercontent.com/kuzu13/t-project/main/s-files/pon_f.wav"},
+    "28":{"url":"https://raw.githubusercontent.com/kuzu13/t-project/main/s-files/kan_f.wav"},
+    "30":{"url":"https://raw.githubusercontent.com/kuzu13/t-project/main/s-files/chii_f.wav"},
+    "32":{"url":"https://raw.githubusercontent.com/kuzu13/t-project/main/s-files/reach_f.wav"},
+    "34":{"url":"https://raw.githubusercontent.com/kuzu13/t-project/main/s-files/ron_f.wav"},
+    "36":{"url":"https://raw.githubusercontent.com/kuzu13/t-project/main/s-files/tsumo_f.wav"}
   }
 }
