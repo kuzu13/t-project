@@ -1,11 +1,19 @@
 {
   "ver":1.0,
   "se":{
-    "26":{"url":"raw.githubusercontent.com/kuzu13/t-project/main/s-files/SE_PON.wav"},
-    "28":{"url":"raw.githubusercontent.com/kuzu13/t-project/main/s-files/SE_KAN.wav"},
-    "30":{"url":"raw.githubusercontent.com/kuzu13/t-project/main/s-files/SE_CHII.wav"},
-    "32":{"url":"raw.githubusercontent.com/kuzu13/t-project/main/s-files/SE_REACH.wav"},
-    "34":{"url":"raw.githubusercontent.com/kuzu13/t-project/main/s-files/RON.wav"},
-    "36":{"url":"raw.githubusercontent.com/kuzu13/t-project/main/s-files/TSUMO.wav"}
+
+    "25":{"url":"https://raw.githubusercontent.com/kuzu13/t-project/main/s-files/発声_ポン.wav"},
+    "26":{"url":"https://raw.githubusercontent.com/kuzu13/t-project/main/s-files/SE_PON.wav"},
+    "27":{"url":"https://raw.githubusercontent.com/kuzu13/t-project/main/s-files/発声_カン.wav"},
+    "28":{"url":"https://raw.githubusercontent.com/kuzu13/t-project/main/s-files/SE_KAN.wav"},
+    "29":{"url":"https://raw.githubusercontent.com/kuzu13/t-project/main/s-files/発声_チー.wav"},
+    "30":{"url":"https://raw.githubusercontent.com/kuzu13/t-project/main/s-files/SE_CHII.wav"},
+    "31":{"url":"https://raw.githubusercontent.com/kuzu13/t-project/main/s-files/発声_リーチ.wav"},
+    "32":{"url":"https://raw.githubusercontent.com/kuzu13/t-project/main/s-files/SE_REACH.wav"},
+    "33":{"url":"https://raw.githubusercontent.com/kuzu13/t-project/main/s-files/発声_ロン.wav"},
+    "34":{"url":"https://raw.githubusercontent.com/kuzu13/t-project/main/s-files/RON.wav"},
+    "35":{"url":"https://raw.githubusercontent.com/kuzu13/t-project/main/s-files/発声_ツモ.wav"},
+    "36":{"url":"https://raw.githubusercontent.com/kuzu13/t-project/main/s-files/TSUMO.wav"}
+
   }
 }
