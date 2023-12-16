@@ -1,0 +1,31 @@
+{
+  "ver":1.0,
+  "se":{
+    "1":{"url":"https://raw.githubusercontent.com/kuzu13/t-project/main/gagak-hitam/SE_DORA.wav"},
+    "3":{"url":"https://raw.githubusercontent.com/kuzu13/t-project/main/gagak-hitam/SE_CLOCK.wav"},
+    "4":{"url":"https://raw.githubusercontent.com/kuzu13/t-project/main/gagak-hitam/SE_KACHI1.wav"},
+    "5":{"url":"https://raw.githubusercontent.com/kuzu13/t-project/main/gagak-hitam/SE_KACHI2.wav"},
+    "6":{"url":"https://raw.githubusercontent.com/kuzu13/t-project/main/gagak-hitam/SE_DA.wav"},
+    "7":{"url":"https://raw.githubusercontent.com/kuzu13/t-project/main/gagak-hitam/SE_TICK.wav"},
+    "8":{"url":"https://raw.githubusercontent.com/kuzu13/t-project/main/gagak-hitam/SE_NAKI.wav"},
+    "9":{"url":"https://raw.githubusercontent.com/kuzu13/t-project/main/gagak-hitam/SE_NUKI.wav"},
+    "10":{"url":"https://raw.githubusercontent.com/kuzu13/t-project/main/gagak-hitam/SE_AGARI.wav"},
+    "11":{"url":"https://raw.githubusercontent.com/kuzu13/t-project/main/gagak-hitam/SE_YAKU.wav"},
+
+    "25":{"url":"https://raw.githubusercontent.com/kuzu13/t-project/main/krf/SE_PON.mp3"},
+    "26":{"url":"https://raw.githubusercontent.com/kuzu13/t-project/main/krf/SE_PON.mp3"},
+    "27":{"url":"https://raw.githubusercontent.com/kuzu13/t-project/main/krf/SE_KAN.mp3"},
+    "28":{"url":"https://raw.githubusercontent.com/kuzu13/t-project/main/krf/SE_KAN.mp3"},
+    "29":{"url":"https://raw.githubusercontent.com/kuzu13/t-project/main/krf/SE_CHII.mp3"},
+    "30":{"url":"https://raw.githubusercontent.com/kuzu13/t-project/main/krf/SE_CHII.mp3"},
+    "31":{"url":"https://raw.githubusercontent.com/kuzu13/t-project/main/krf/SE_REACH.mp3"},
+    "32":{"url":"https://raw.githubusercontent.com/kuzu13/t-project/main/krf/SE_REACH.mp3"},
+    "33":{"url":"https://raw.githubusercontent.com/kuzu13/t-project/main/krf/SE_RON.mp3"},
+    "34":{"url":"https://raw.githubusercontent.com/kuzu13/t-project/main/krf/SE_RON.mp3"},
+    "35":{"url":"https://raw.githubusercontent.com/kuzu13/t-project/main/krf/SE_TSUMO.mp3"},
+    "36":{"url":"https://raw.githubusercontent.com/kuzu13/t-project/main/krf/SE_TSUMO.mp3"},
+
+    "40":{"url":"https://raw.githubusercontent.com/kuzu13/t-project/main/gagak-hitam/SE_START.wav"},
+    "41":{"url":"https://raw.githubusercontent.com/kuzu13/t-project/main/gagak-hitam/SE_KIRA.wav"}
+  }
+}
